@@ -11,4 +11,4 @@ How to run the script
 Write your desired text into the abc.txt file then execute the txtToSpeech.py file. This can be done by typing 'python txtToSpeech.py' into your Terminal.
 
 Author Name
-@rudra3105
+Rudra Bhatt (https://rudra3105.github.io/rudra/)
